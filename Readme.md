@@ -1,6 +1,7 @@
 <div align="center">
   <a href="https://github.com/your-github-username">
-    <img src="" alt="A funky girl coding in a cozy, modern setup" width="800px"/>
+     <img src="https://github.com/AkankshaMishra2/AkankshaMishra2/blob/main/Ghibli_Coding_Girl_Video_Generated.gif?raw=true" alt="A funky girl coding in a cozy, modern setup" width="800px"/>
+    
   </a>
 </div>
 
