@@ -73,13 +73,13 @@ Here are a few technologies I've been working with recently:
 ### 📬 Let's Connect!
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin-profile" target="blank">
+  <a href="https://www.linkedin.com/in/theakankshamishra/" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://twitter.com/your-twitter-handle" target="blank">
+  <a href="https://x.com/udk_Akanksha" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
-  <a href="mailto:your.email@example.com" target="blank">
+  <a href="mailto:akankshamishra20042@gmail.com" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" />
   </a>
 </p>
