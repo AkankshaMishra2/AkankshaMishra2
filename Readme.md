@@ -79,7 +79,7 @@ Here are a few technologies I've been working with recently:
   <a href="https://x.com/udk_Akanksha" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
-  <a href="mailto:akankshamishra20042@gmail.com" target="blank">
+<!--   <a href="mailto:akankshamishra20042@gmail.com" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" />
-  </a>
+  </a> -->
 </p>
